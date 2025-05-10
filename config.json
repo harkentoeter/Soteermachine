@@ -1,0 +1,12 @@
+{
+  "nasa_url": "https://images.nasa.gov/",
+  "search_query": "pluto",
+  "num_results": 50,
+  "download_dir": "nasa_images",
+  "file_types": ["jpg", "png"],
+  "video_types": ["mp4", "mov"],
+  "document_types": ["pdf", "docx"],
+  "max_workers": 8,
+  "log_level": "INFO"
+}
+
